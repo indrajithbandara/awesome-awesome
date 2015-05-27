@@ -1,4 +1,4 @@
-#Awesome Awosome list on GitHub
+#Awesome Awesome list on GitHub
 
 A curated list of awesome lists
 
